@@ -1,0 +1,2 @@
+# Advanced-Metabolomics-Data-Analysis-using-Machine-Learning-in-R-for-Biomarker-Discovery
+A comprehensive R-based pipeline for preprocessing, visualizing, and classifying metabolomics data using state-of-the-art machine learning algorithms (Random Forest, XGBoost, SVM, KNN, Neural Nets). Includes PCA, ANOVA, and heatmap analytics to derive actionable biological insights—bridging data science with modern bioinformatics
